@@ -7,6 +7,7 @@ import java.sql.SQLException;
 public class DBConnection { 
     /*private static final String url = "jdbc:sqlserver://REHAM-PC\\SQLEXPRESS"
             + ":1433;databaseName=Book_Store;encrypt=true;trustServerCertificate=true";*/ 
+    
     private static final String url =
     "jdbc:sqlserver://DESKTOP-TRUVG2B;databaseName=Book_Store;encrypt=true;trustServerCertificate=true";
 
